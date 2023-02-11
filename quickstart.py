@@ -22,7 +22,7 @@ SAMPLE_SPREADSHEET_ID = '1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms'
 SAMPLE_RANGE_NAME = 'Class Data!A2:E'
 
 def main():
-    """Shows basic usage of the Sheets API.
+    """ Shows basic usage of the Sheets API.
     Prints values from a sample spreadsheet.
     """
     creds = None
